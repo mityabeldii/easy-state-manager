@@ -1,0 +1,21 @@
+{
+    "name": "@easy/state-manager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "turbo run dev --",
+        "format": "prettier --write ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "turbo": "^2.1.2"
+    },
+    "workspaces": [
+        "examples/*",
+        "packages/*"
+    ],
+    "packageManager": "bun@1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "@easy/store-react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "react": "^18.3.1"
+    }
+}
